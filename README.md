@@ -28,6 +28,6 @@
 
 <img width="1161" height="322" alt="Captura de Tela (18)" src="https://github.com/user-attachments/assets/3c62ce9b-f765-4d22-a6d0-690e30b00def" />
 
-## Desafio 07 - Desenvolva um programa que leia duas notas de um aluno,czlcule e mostre a sua média
+## Desafio 07 - Desenvolva um programa que leia duas notas de um aluno,calcule e mostre a sua média
 
 <img width="1135" height="314" alt="Captura de Tela (20)" src="https://github.com/user-attachments/assets/48291b05-5f0f-421f-a3f2-494830b0a301" />
