@@ -31,3 +31,7 @@
 ## Desafio 07 - Desenvolva um programa que leia duas notas de um aluno,calcule e mostre a sua média
 
 <img width="1135" height="314" alt="Captura de Tela (20)" src="https://github.com/user-attachments/assets/48291b05-5f0f-421f-a3f2-494830b0a301" />
+
+## Desafio 08 - Escreva um programa que leia um valor em metros e o exiba corvertido em centimetros e milimetros
+
+<img width="1287" height="281" alt="Captura de Tela (22)" src="https://github.com/user-attachments/assets/a40b8237-382e-4b95-9510-e0ed5898556f" />
