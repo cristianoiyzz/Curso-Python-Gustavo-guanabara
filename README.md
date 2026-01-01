@@ -19,3 +19,7 @@
 ## Desafio 04 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as inoprmações sobre ele
 
 <img width="1270" height="354" alt="Captura de Tela (14)" src="https://github.com/user-attachments/assets/67c33d2d-5c8f-464a-afcb-98b3e1ac875f" />
+
+## Desafio 05 - Faça um programa que leia o número inteiro e mostre na tela o seu sucessor e antecessor
+
+<img width="994" height="439" alt="Captura de Tela (16)" src="https://github.com/user-attachments/assets/94f9e2e9-0194-4d55-a149-4e6b1edee325" />
