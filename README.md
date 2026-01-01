@@ -35,3 +35,22 @@
 ## Desafio 08 - Escreva um programa que leia um valor em metros e o exiba corvertido em centimetros e milimetros
 
 <img width="1287" height="281" alt="Captura de Tela (22)" src="https://github.com/user-attachments/assets/a40b8237-382e-4b95-9510-e0ed5898556f" />
+
+## Desafio 09 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada
+
+<img width="1197" height="504" alt="Captura de Tela (23)" src="https://github.com/user-attachments/assets/0b534147-c019-4b1c-97bc-5045a49e0b7b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
