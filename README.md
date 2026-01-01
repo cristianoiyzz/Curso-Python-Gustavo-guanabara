@@ -12,10 +12,10 @@
 
 <img width="816" height="550" alt="Captura de Tela (12)" src="https://github.com/user-attachments/assets/3fe2141b-85a2-41ed-a7f8-4a94a955ce05" />
 
-## Melhorando Indentação
+## Desafio 03 - Melhorando Indentação
 
 <img width="841" height="395" alt="Captura de Tela (11)" src="https://github.com/user-attachments/assets/8b295799-e8d1-4b42-a1e5-12b75cdd9ce4" />
 
 ## Desafio 04 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as inoprmações sobre ele
 
-<img width="3840" height="1080" alt="Captura de Tela (14)" src="https://github.com/user-attachments/assets/04272caf-6e26-4fba-9d5b-697742f9d068" />
+<img width="1270" height="354" alt="Captura de Tela (14)" src="https://github.com/user-attachments/assets/67c33d2d-5c8f-464a-afcb-98b3e1ac875f" />
