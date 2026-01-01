@@ -23,3 +23,7 @@
 ## Desafio 05 - Faça um programa que leia o número inteiro e mostre na tela o seu sucessor e antecessor
 
 <img width="994" height="439" alt="Captura de Tela (16)" src="https://github.com/user-attachments/assets/94f9e2e9-0194-4d55-a149-4e6b1edee325" />
+
+## Desafio 06 - Crie um algoritmo que leia um número e mostre o seu dobro,triplo e raiz quadrada
+
+<img width="1161" height="322" alt="Captura de Tela (18)" src="https://github.com/user-attachments/assets/3c62ce9b-f765-4d22-a6d0-690e30b00def" />
