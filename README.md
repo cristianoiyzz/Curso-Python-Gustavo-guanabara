@@ -44,7 +44,9 @@
 
 <img width="1581" height="535" alt="Captura de Tela (25)" src="https://github.com/user-attachments/assets/0317d935-59fb-4c14-ac15-7f9cf528a10d" />
 
+## Desafio 11 - Faça um programa que leia a largura e altura de uma parede em metros,calcule a sua área e a quantidade de tinta necessária para pimtá-la,sabendo que cada litro de tinta pinta uma área de 2m**2
 
+<img width="1657" height="317" alt="Captura de Tela (26)" src="https://github.com/user-attachments/assets/6c213e34-8e8b-4073-b6fd-0697d021bc0c" />
 
 
 
