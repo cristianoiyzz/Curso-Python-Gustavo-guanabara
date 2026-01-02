@@ -52,6 +52,12 @@
 
 <img width="1202" height="510" alt="Captura de Tela (27)" src="https://github.com/user-attachments/assets/ac8b63ab-67bb-4945-bf99-07aa9c090a0b" />
 
+## Desafio 13 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário.com 15% de desconto
+
+<img width="1207" height="465" alt="Captura de Tela (28)" src="https://github.com/user-attachments/assets/b60fdb95-d670-440b-9b9a-b4bdf3c0788b" />
+
+
+
 
 
 
