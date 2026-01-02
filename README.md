@@ -40,6 +40,26 @@
 
 <img width="1197" height="504" alt="Captura de Tela (23)" src="https://github.com/user-attachments/assets/0b534147-c019-4b1c-97bc-5045a49e0b7b" />
 
+## Desafio 10 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolarés ela pode comprar
+
+<img width="1581" height="535" alt="Captura de Tela (25)" src="https://github.com/user-attachments/assets/0317d935-59fb-4c14-ac15-7f9cf528a10d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
