@@ -48,8 +48,9 @@
 
 <img width="1657" height="317" alt="Captura de Tela (26)" src="https://github.com/user-attachments/assets/6c213e34-8e8b-4073-b6fd-0697d021bc0c" />
 
+## Desafio 12 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço,com 5% de desconto
 
-
+<img width="1202" height="510" alt="Captura de Tela (27)" src="https://github.com/user-attachments/assets/ac8b63ab-67bb-4945-bf99-07aa9c090a0b" />
 
 
 
