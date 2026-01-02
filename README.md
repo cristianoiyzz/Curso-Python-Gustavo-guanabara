@@ -56,7 +56,7 @@
 
 <img width="1207" height="465" alt="Captura de Tela (28)" src="https://github.com/user-attachments/assets/b60fdb95-d670-440b-9b9a-b4bdf3c0788b" />
 
-## Desafio 13 - Escreva um programa que converta uma temperatura digitada em °C e converta em °F
+## Desafio 14 - Escreva um programa que converta uma temperatura digitada em °C e converta em °F
 
 <img width="1698" height="449" alt="Captura de Tela (30)" src="https://github.com/user-attachments/assets/f572b255-8e70-4f66-a9ca-7142baadd2a3" />
 
