@@ -64,7 +64,9 @@
 
 <img width="1675" height="410" alt="Captura de Tela (33)" src="https://github.com/user-attachments/assets/b9cbfb2d-b424-42ca-a6f6-dddfbf17fb56" />
 
+## Desafio 16 - Crie um programa que leia um número real pelo tecladoe mostre na tela a sua porção inteira
 
+<img width="1382" height="357" alt="Captura de Tela (34)" src="https://github.com/user-attachments/assets/806181bd-b79c-4824-aa5f-39bc7a34470e" />
 
 
 
