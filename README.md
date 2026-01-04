@@ -72,6 +72,11 @@
 
 <img width="1565" height="475" alt="Captura de Tela (35)" src="https://github.com/user-attachments/assets/07ec1fb1-b330-4e5b-bb47-e902abc09b15" />
 
+## Desafio 18 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+
+<img width="1693" height="347" alt="Captura de Tela (36)" src="https://github.com/user-attachments/assets/06500bd4-2b4d-49dd-960a-394949f7c6b3" />
+
+
 
 
 
