@@ -60,6 +60,9 @@
 
 <img width="1698" height="449" alt="Captura de Tela (30)" src="https://github.com/user-attachments/assets/f572b255-8e70-4f66-a9ca-7142baadd2a3" />
 
+## Desafiop 15 - Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado.calcule o preço a pagar,sabendo que o carro custa R$ por dia e R$0,15 por km rodado
+
+
 
 
 
