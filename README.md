@@ -68,6 +68,11 @@
 
 <img width="1382" height="357" alt="Captura de Tela (34)" src="https://github.com/user-attachments/assets/806181bd-b79c-4824-aa5f-39bc7a34470e" />
 
+## Desafio 17 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+
+<img width="1565" height="475" alt="Captura de Tela (35)" src="https://github.com/user-attachments/assets/07ec1fb1-b330-4e5b-bb47-e902abc09b15" />
+
+
 
 
 
