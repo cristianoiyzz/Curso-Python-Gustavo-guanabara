@@ -78,6 +78,8 @@
 
 ## Desafio 19 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
 
+<img width="1531" height="447" alt="Captura de Tela (37)" src="https://github.com/user-attachments/assets/d67df54b-75ce-4fac-a67e-df03fc35114f" />
+
 
 
 
