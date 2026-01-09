@@ -84,6 +84,10 @@
 
 <img width="1849" height="347" alt="image" src="https://github.com/user-attachments/assets/f28870a4-72a0-4e25-9ea8-6930a5ea9966" />
 
+## Desafio 21 - Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+
+<img width="1720" height="401" alt="Captura de Tela (40)" src="https://github.com/user-attachments/assets/6a6ccc47-88aa-4802-88f2-80430bdecee0" />
+
 
 
 
