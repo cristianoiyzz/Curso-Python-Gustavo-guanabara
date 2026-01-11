@@ -88,6 +88,19 @@
 
 <img width="1720" height="401" alt="Captura de Tela (40)" src="https://github.com/user-attachments/assets/6a6ccc47-88aa-4802-88f2-80430bdecee0" />
 
+## Desafio 22 - Crie um programa que leia o nome completo de uma pessoa e mostre:
+
+– O nome com todas as letras maiúsculas e minúsculas.
+
+– Quantas letras ao todo (sem considerar espaços).
+
+– Quantas letras tem o primeiro nome.
+
+<img width="1684" height="415" alt="image" src="https://github.com/user-attachments/assets/82cf86af-04b2-44f2-99cc-d4e539f1b24b" />
+
+
+
+
 
 
 
