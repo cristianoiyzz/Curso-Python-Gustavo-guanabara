@@ -102,6 +102,13 @@
 
 <img width="1615" height="524" alt="image" src="https://github.com/user-attachments/assets/1f037ea2-93e5-401c-830a-176f63841f27" />
 
+## Desafio 24 - Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
+
+<img width="1665" height="469" alt="image" src="https://github.com/user-attachments/assets/2406ac5c-c631-40d4-be83-7855bc164501" />
+
+
+
+
 
 
 
