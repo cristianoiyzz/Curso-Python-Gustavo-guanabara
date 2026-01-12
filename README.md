@@ -98,6 +98,13 @@
 
 <img width="1684" height="415" alt="image" src="https://github.com/user-attachments/assets/82cf86af-04b2-44f2-99cc-d4e539f1b24b" />
 
+## Desafio 23 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+<img width="1615" height="524" alt="image" src="https://github.com/user-attachments/assets/1f037ea2-93e5-401c-830a-176f63841f27" />
+
+
+
+
 
 
 
