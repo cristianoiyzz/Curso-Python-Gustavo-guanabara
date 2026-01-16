@@ -127,6 +127,12 @@
 
 <img width="1683" height="368" alt="image" src="https://github.com/user-attachments/assets/77d72784-5522-41a4-82a0-e53f7957a563" />
 
+## Desafio 30 - Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
+<img width="1693" height="334" alt="image" src="https://github.com/user-attachments/assets/31c075dd-b0d3-4b4f-96f1-791a68a0a901" />
+
+
+
 
 
 
