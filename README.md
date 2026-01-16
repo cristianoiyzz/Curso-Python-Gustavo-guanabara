@@ -114,6 +114,8 @@
 
 <img width="1681" height="355" alt="image" src="https://github.com/user-attachments/assets/f8b811ec-da83-4b60-905e-be687141af60" />
 
+## Desafio 27 -  Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
 
 
 
