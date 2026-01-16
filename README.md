@@ -123,6 +123,10 @@
 
 <img width="1669" height="464" alt="image" src="https://github.com/user-attachments/assets/b0fd1336-2fb0-4d43-aef8-7b3cd85a07ed" />
 
+## Desafio 29 - Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+
+<img width="1683" height="368" alt="image" src="https://github.com/user-attachments/assets/77d72784-5522-41a4-82a0-e53f7957a563" />
+
 
 
 
