@@ -117,6 +117,9 @@
 ## Desafio 27 -  Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 
 
+<img width="1650" height="292" alt="image" src="https://github.com/user-attachments/assets/9c851c22-92e7-4f2a-9517-d354e55656ad" />
+
+
 
 
 
