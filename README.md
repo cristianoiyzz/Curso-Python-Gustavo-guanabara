@@ -119,6 +119,12 @@
 
 <img width="1650" height="292" alt="image" src="https://github.com/user-attachments/assets/9c851c22-92e7-4f2a-9517-d354e55656ad" />
 
+## Desafio 28 - Escreva um programa que faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
+
+
+
+
 
 
 
