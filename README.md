@@ -131,6 +131,12 @@
 
 <img width="1693" height="334" alt="image" src="https://github.com/user-attachments/assets/31c075dd-b0d3-4b4f-96f1-791a68a0a901" />
 
+## Desafio 31 -  Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+
+<img width="1696" height="439" alt="image" src="https://github.com/user-attachments/assets/7e24869a-5c65-432b-b194-5cb8b982d5eb" />
+
+
+
 
 
 
