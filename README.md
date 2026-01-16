@@ -110,6 +110,10 @@
 
 <img width="1659" height="369" alt="image" src="https://github.com/user-attachments/assets/ab2813e8-bd53-4b14-b92d-03e33740e324" />
 
+## Desafio 26 - Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+
+<img width="1681" height="355" alt="image" src="https://github.com/user-attachments/assets/f8b811ec-da83-4b60-905e-be687141af60" />
+
 
 
 
