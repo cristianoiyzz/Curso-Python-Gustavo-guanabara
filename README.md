@@ -106,6 +106,11 @@
 
 <img width="1665" height="469" alt="image" src="https://github.com/user-attachments/assets/2406ac5c-c631-40d4-be83-7855bc164501" />
 
+## Desafio 25 - Crie um programa que leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
+
+<img width="1659" height="369" alt="image" src="https://github.com/user-attachments/assets/ab2813e8-bd53-4b14-b92d-03e33740e324" />
+
+
 
 
 
