@@ -1,4 +1,4 @@
-# Curso De Python
+<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/b62dd6c1-561f-4caa-960d-1fa439d7cd97" /># Curso De Python
 
 ## Desafio 01 - Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado
 
@@ -138,6 +138,12 @@
 ## Desafio 32 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 
 <img width="1706" height="314" alt="image" src="https://github.com/user-attachments/assets/9b36ee56-3c7f-4d00-9638-ae23c2874ddd" />
+
+## Desafio 33 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+
+<img width="1684" height="601" alt="image" src="https://github.com/user-attachments/assets/bed3347a-da9d-4745-8e25-aca090433de2" />
+
+
 
 
 
