@@ -149,7 +149,8 @@
 
 ## Desafio 35 - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
-![Uploading image.png…]()
+<img width="1704" height="439" alt="image" src="https://github.com/user-attachments/assets/9efd2fa6-0d5a-473e-bc6c-534a90bc134d" />
+
 
 
 
