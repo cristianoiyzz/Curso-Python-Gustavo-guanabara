@@ -143,6 +143,10 @@
 
 <img width="1684" height="601" alt="image" src="https://github.com/user-attachments/assets/bed3347a-da9d-4745-8e25-aca090433de2" />
 
+## Desafio 34 -  Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+
+
+
 
 
 
