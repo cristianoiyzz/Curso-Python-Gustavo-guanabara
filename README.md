@@ -1,4 +1,4 @@
-<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/b62dd6c1-561f-4caa-960d-1fa439d7cd97" /># Curso De Python
+# Curso De Python Mundo I
 
 ## Desafio 01 - Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado
 
