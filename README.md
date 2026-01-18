@@ -135,6 +135,12 @@
 
 <img width="1696" height="439" alt="image" src="https://github.com/user-attachments/assets/7e24869a-5c65-432b-b194-5cb8b982d5eb" />
 
+## Desafio 32 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+
+<img width="1706" height="314" alt="image" src="https://github.com/user-attachments/assets/9b36ee56-3c7f-4d00-9638-ae23c2874ddd" />
+
+
+
 
 
 
