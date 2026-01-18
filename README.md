@@ -147,6 +147,11 @@
 
 <img width="1697" height="407" alt="image" src="https://github.com/user-attachments/assets/41df1a85-f0cd-4191-9c1b-d99cc11ebda3" />
 
+## Desafio 35 - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+![Uploading image.png…]()
+
+
 
 
 
